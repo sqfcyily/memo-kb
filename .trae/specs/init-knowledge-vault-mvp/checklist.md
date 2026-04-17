@@ -1,0 +1,11 @@
+- [ ] Project initialized with Next.js App Router and dependencies installed.
+- [ ] Git username configured as `xiaomajiang` and commit messages set to English.
+- [ ] Directory structure (`inbox/`, `library/`, `.kv-meta/`) created successfully.
+- [ ] Capture API saves raw files with timestamp and UUID in `inbox/`.
+- [ ] LLM Service generates valid JSON based on the specified schema.
+- [ ] Auto-archive successfully creates new library markdown files without user confirmation.
+- [ ] Merge confirmation provides diff and patches target files accurately upon approval.
+- [ ] SQLite FTS5 indexes files and supports fast searching.
+- [ ] UI provides quick capture and single-box search functionality.
+- [ ] UI displays Inbox and Library items properly, rendering Markdown.
+- [ ] CLI `kb` successfully queries the local index and returns text results.
